@@ -3,4 +3,4 @@ Welcome! I intend to fill this repo with machine learning tutorials that I creat
 
 
 ## Tutorials
-* Introduction to machine learning - INTERMEDIATE - This tutorial is an example-based introduction to the many parts of machine learning. The code and math can be rather intense for a beginner.
+* **Introduction to Machine Learning** - *INTERMEDIATE* - This tutorial is an example-based introduction to the fundamentals of machine learning. The math might be rather intense for a beginner, but I hopefully explain the equations well enough :)
